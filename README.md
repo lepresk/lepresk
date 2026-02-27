@@ -1,39 +1,15 @@
-# Logan CodeMaker
+## Logan CodeMaker
 
-VP of Engineering at [Akieni](https://akieni.com), based in Brazzaville, Congo. A decade building and scaling engineering teams across Africa — GovTech, HealthTech, and E-Commerce.
+VP of Engineering at Akieni. 10 years building software in Central Africa.
 
-Currently overseeing 18+ engineers, building enterprise-grade systems that serve 100K+ users.
+I manage a team of 18 engineers shipping systems for government, healthcare, and commerce — infrastructure that people depend on daily. Before that I was a freelance developer, then CTO at Cowema where we scaled to 30K+ users.
 
----
+Most of my work is private by necessity. What's here reflects what I think about and build in my own time.
 
-### What I work with
+The most useful thing I've open sourced is [momo-api](https://github.com/lepresk/momo-api) — a PHP library for MTN Mobile Money, because integrating fintech in Africa shouldn't require reading three conflicting PDFs. It's been used in production in several companies across Congo.
 
-**Backend** — Node.js / NestJS, PHP / Laravel, Python / Django, .NET / C#
-**Frontend** — React, Next.js, TypeScript
-**Mobile** — Flutter, Kotlin
-**Infrastructure** — Docker, Kubernetes, AWS, GitHub Actions
-**Databases** — PostgreSQL, MySQL, MongoDB, Redis
+I write occasionally at [lepresk.com/blog](https://lepresk.com/blog) when I have something concrete to say — no opinion pieces, just technical walkthroughs of things I've actually built.
 
----
+`Node.js` `NestJS` `PHP` `Laravel` `.NET` `React` `Flutter` `PostgreSQL` `Docker`
 
-### Selected work
-
-| Project | Description |
-|---|---|
-| [momo-api](https://github.com/lepresk/momo-api) | PHP wrapper for the MTN MoMo API — collections, disbursements, remittances |
-| [pki-infrastructure](https://github.com/lepresk/pki-infrastructure) | Three-tier PKI in Node.js — Root CA, Intermediate CA, signing & verification |
-| [docker-webui](https://github.com/lepresk/docker-webui) | Web UI for visualizing and downloading Docker container logs |
-
----
-
-### Writing
-
-I write about backend architecture, infrastructure, and engineering leadership on my blog.
-
-[lepresk.com/blog](https://lepresk.com/blog)
-
----
-
-### Contact
-
-[lepresk.com](https://lepresk.com) · [info@lepresk.com](mailto:info@lepresk.com) · [@lepresk1](https://twitter.com/lepresk1)
+[lepresk.com](https://lepresk.com) · [info@lepresk.com](mailto:info@lepresk.com)
