@@ -6,7 +6,10 @@ I manage a team of 18 engineers shipping systems for government, healthcare, and
 
 Most of my work is private by necessity. What's here reflects what I think about and build in my own time.
 
-The most useful thing I've open sourced is [momo-api](https://github.com/lepresk/momo-api) — a PHP library for MTN Mobile Money, because integrating fintech in Africa shouldn't require reading three conflicting PDFs. It's been used in production in several companies across Congo.
+I maintain two PHP packages built out of real production needs:
+
+- [momo-api](https://github.com/lepresk/momo-api) — MTN Mobile Money integration for PHP. Handles collections, disbursements and remittances, because integrating fintech in Africa shouldn't require reading three conflicting PDFs.
+- [laravel-onesignal](https://github.com/lepresk/laravel-onesignal) — OneSignal push notification channel for Laravel. iOS, Android and web in one package.
 
 I write occasionally at [lepresk.com/blog](https://lepresk.com/blog) when I have something concrete to say — no opinion pieces, just technical walkthroughs of things I've actually built.
 
