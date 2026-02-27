@@ -1,4 +1,4 @@
-## Logan CodeMaker
+## Lepres Kikounga
 
 VP of Engineering at Akieni. 10 years building software in Central Africa.
 
@@ -15,6 +15,6 @@ I maintain open source packages built out of real production needs:
 
 I write occasionally at [lepresk.com/blog](https://lepresk.com/blog) when I have something concrete to say — no opinion pieces, just technical walkthroughs of things I've actually built.
 
-`Node.js` `NestJS` `PHP` `Laravel` `.NET` `React` `Flutter` `PostgreSQL` `Docker`
+`PHP` `Laravel` `Node.js` `.NET` `React` `Flutter` `PostgreSQL` `Docker`
 
 [lepresk.com](https://lepresk.com) · [info@lepresk.com](mailto:info@lepresk.com)
